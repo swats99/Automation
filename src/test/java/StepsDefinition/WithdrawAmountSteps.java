@@ -31,6 +31,7 @@ public class WithdrawAmountSteps {
     @And("balance should be Rs900")
     public void balance_should_be_rs900() throws Throwable {
        System.out.println("balance_should_be_rs900");
+        System.out.println("Balance should be debited from a/c");
 
     }
 
