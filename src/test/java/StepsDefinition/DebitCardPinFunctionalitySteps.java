@@ -9,6 +9,7 @@ public class DebitCardPinFunctionalitySteps {
     @Given("user should have valid stanc debit card")
     public void userShouldHaveValidStancDebitCard() {
         System.out.println("userShouldHaveValidStancDebitCard");
+        System.out.println("This demo for gitrebase1 from intellij");
        
     }
 
