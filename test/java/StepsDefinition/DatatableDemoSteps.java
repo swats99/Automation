@@ -1,5 +1,5 @@
 public class DatatableDemoSteps {
-    @io.cucumber.java.en.Given("User should be on login page")
+    @io.cucumber.java.en.Given("Userr should be on login page")
     public void userShouldBeOnLoginPage() {
     }
 
