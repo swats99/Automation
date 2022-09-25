@@ -13,7 +13,7 @@ import java.util.List;
 public class DatabaseDemoSteps {
     @Given("User should be on login page")
     public void userShouldBeOnLoginPage() {
-        System.out.println("User should be on login page");
+        System.out.println("User shoullld be on login page");
     }
 
     @When("User should enter username and password")
